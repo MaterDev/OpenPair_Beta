@@ -1,5 +1,5 @@
 # OpenPair
-Open-Sour Pair Programming Mentoring
+Open-Source Pair Programming Mentoring
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
