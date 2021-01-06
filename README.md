@@ -12,8 +12,6 @@
 
 >The best way to view this repository is to clone locally and view in VSCode using the [**Markdown All in One**](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) plugin.
 
-[d](LICENSE)
-
 ---
 
 ## Manifesto
