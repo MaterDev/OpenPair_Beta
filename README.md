@@ -12,6 +12,8 @@
 
 >The best way to view this repository is to clone locally and view in VSCode using the [**Markdown All in One**](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) plugin.
 
+[d](LICENSE)
+
 ---
 
 ## Manifesto
@@ -28,6 +30,29 @@ Every mentor will bring their own unique flavor to the progam by modifying, expa
 > 
 >The target audience of this program can be co-opted to target any communities or individuals deemed appropriate by the host (mentor).
 
+---
+
+## Repository Contents
+
+- ### Pair Programming Guide
+	- Origin & Meaning
+	- Roles
+- ### Mentee Intake Process
+	- Recommended Technology
+	- Mentorship agreement
+- ### Setup & Preparation
+	- Mentee Acquisition
+	- Filtering Canditates w/Surveys
+- ### Session Outlines
+	1. Orientation
+	2. Pairing Session 1
+	3. Pairing Session 2
+	4. Pairing Session 3
+	5. Resume Review & Career Feedback
+	6. Exit Interview & Follow-Up
+- ### Program Development
+	- Iteration
+	- Modification & Forking
 
 
 ---
