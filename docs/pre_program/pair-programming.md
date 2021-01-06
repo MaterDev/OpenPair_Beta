@@ -1,6 +1,20 @@
-#  Roles & Obligations
+#  Pair Programming
 
-## Mentee
+<p style="margin-bottom:10px">
+<img src="assets/../../../assets/images/logo_graphic.png" align="left" width="125" style="padding-right:10px; padding-bottom:10px">
+
+If you're not familiar with the basics of Pair Programming, [watch this video](https://www.youtube.com/watch?v=ET3Q6zNK3Io).
+
+Since you are working together remotely, you will use **Visual Studio Code** with the **LiveShare Plugin** for pair-programming (as mentioned in the [Pre-Start](pre-start.md) document).
+
+---
+</p>
+
+
+
+## Roles and Obligations
+
+### Mentee (Driver)
 > The mentee is responsible for providing the context of the program. During pair-programming the mentee should perform the role of the "driver" as much as possible.
 >
 > ---
@@ -11,8 +25,8 @@
 > 	- Completing self-assigned tasks between pairing sessions
 > 	- Proactively lead communication
 
-## Mentor
-> The mentor is responsible for providing general feedback, PR reviews, and guidance during the pair-programming.
+### Mentor (Navigator)
+> The mentor is responsible for providing general feedback, PR reviews, and guidance during pair-programming sessions.
 > 
 > ---
 > ### Basic Obligations

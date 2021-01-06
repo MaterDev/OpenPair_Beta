@@ -10,7 +10,7 @@
 
 
 
->The best way to view this repository is to clone locally and view in VSCode using the [**Markdown All in One**](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) plugin.
+>The best way to view and edit this repository is to clone locally and view in VSCode using the [**Markdown All in One**](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) plugin.
 
 ---
 
@@ -30,14 +30,13 @@ Every mentor will bring their own unique flavor to the progam by modifying, expa
 
 ---
 
-## Repository Contents
+## Table Of Contents
 
 - ### Pair Programming Guide
 	- Origin & Meaning
 	- Roles
 - ### Mentee Intake Process
-	- Recommended Technology
-	- Mentorship agreement
+	- Pre-Start
 - ### Setup & Preparation
 	- Mentee Acquisition
 	- Filtering Canditates w/Surveys
