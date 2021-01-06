@@ -1,4 +1,4 @@
-# OpenPair
+# OpenPair_Beta
 > Questions, concerns, and inquiries about the program can be mailed to <hello@mater.dev>
 
 <p align="center">
