@@ -1,6 +1,6 @@
 ---
 name: Documentation issue template
-about: An engineering task
+about: An documentation task
 title: ''
 labels: ''
 assignees: ''
