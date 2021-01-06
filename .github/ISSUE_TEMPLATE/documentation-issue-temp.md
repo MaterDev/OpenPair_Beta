@@ -6,8 +6,6 @@ labels: ''
 assignees: ''
 
 ---
-# Related Issue
-fixes #?
 
 # Proposed Change
 ** Provide info about the change to be made **
